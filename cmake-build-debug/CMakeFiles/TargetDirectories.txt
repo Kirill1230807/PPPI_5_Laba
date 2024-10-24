@@ -1,0 +1,3 @@
+D:/PPPI_5_Laba/cmake-build-debug/CMakeFiles/PPPI_5_Laba.dir
+D:/PPPI_5_Laba/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PPPI_5_Laba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
